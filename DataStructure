@@ -1,4 +1,5 @@
 ##Proje 1
+
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
@@ -38,4 +39,60 @@ O(n^2)
 2.Step[3,7,5,8,2,9,4,15,6]
 3.Step[3,5,7,8,2,9,4,15,6]
 4.Step[3,5,7,8,2,9,4,15,6]
+------------------------------------------------------------------------------------------
+##Proje 2
+
+[16,21,11,8,12,22] -> Merge Sort
+
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+Big-O gösterimini yazınız.
+
+ örnekDizi= [16,21,11,8,12,22]
+
+1) "MergeShort" türüne göre aşamaları =>
+
+                 [16,21,11,8,12,22]
+                /                 \
+            [16,21,11]            [8,12,22]
+             /     \               /       \
+          [16]    [21,11]        [8]    [12,22]
+            |      /  \           |      /     \
+          [16]   [21]  [11]      [8]   [12]    [22]
+            |      \    /         |      \     /
+          [16]     [11,21]       [8]     [12,22]
+            \         /            \       /
+            [11,16,21]             [8,12,22]
+                      \           / 
+                    [8,11,12,16,21,22]    
+
+2)Dizinin "Big-O"  gösterimi =>
+
+n = 2^x
+x = logn => O(nlogn)
+---------------------------------------------------------------------------------------
+##Proje 3
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+1)Dizininin "Binary-Search-Tree" aşamalarını gösteriniz =>
+
+a)[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+     
+b)Root: 5
+
+Root'un sağında: 7
+Root'un solounda: 3
+
+c)
+ 
+               5 
+             /   \
+           /       \
+          3         7
+        /   \     /   \
+      1     4    6     8
+     / \               | 
+    0   2              9
 
