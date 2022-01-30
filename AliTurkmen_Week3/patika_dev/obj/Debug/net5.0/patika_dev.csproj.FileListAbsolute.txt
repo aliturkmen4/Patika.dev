@@ -1,0 +1,7 @@
+C:\Users\alitu\OneDrive\Masaüstü\BusraYesilalioglu.Week3-main\CodeFirst_patika_dev\obj\Debug\net5.0\patika_dev.csproj.AssemblyReference.cache
+C:\Users\alitu\OneDrive\Masaüstü\BusraYesilalioglu.Week3-main\CodeFirst_patika_dev\obj\Debug\net5.0\patika_dev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alitu\OneDrive\Masaüstü\BusraYesilalioglu.Week3-main\CodeFirst_patika_dev\obj\Debug\net5.0\patika_dev.AssemblyInfoInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\BusraYesilalioglu.Week3-main\CodeFirst_patika_dev\obj\Debug\net5.0\patika_dev.AssemblyInfo.cs
+C:\Users\alitu\OneDrive\Masaüstü\BusraYesilalioglu.Week3-main\CodeFirst_patika_dev\obj\Debug\net5.0\patika_dev.csproj.CoreCompileInputs.cache
+C:\Users\alitu\OneDrive\Masaüstü\BusraYesilalioglu.Week3-main\CodeFirst_patika_dev\obj\Debug\net5.0\patika_dev.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alitu\OneDrive\Masaüstü\BusraYesilalioglu.Week3-main\CodeFirst_patika_dev\obj\Debug\net5.0\patika_dev.MvcApplicationPartsAssemblyInfo.cache
